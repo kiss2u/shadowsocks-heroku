@@ -23,10 +23,10 @@ Heroku 提供免费账号，部分介绍如下：
 
 ### 2. Fork 本项目
 1. Fork 本项目到个人账号下
-    ![](https://github.com/521xueweihan/shadowsocks-heroku/blob/master/img/4-min.png)
+    ![](https://raw.githubusercontent.com/doyzheng/shadowsocks-heroku/master/img/4-min.png)
 
 2. 下载本项目到本地：“Clone or download” ——> “Download ZIP”
-    ![](https://github.com/521xueweihan/shadowsocks-heroku/blob/master/img/8-min.png)
+    ![](https://raw.githubusercontent.com/doyzheng/shadowsocks-heroku/master/img/8-min.png)
 
 3. 解压文件，**并记下所在位置**
 
@@ -38,14 +38,14 @@ Heroku 在创建项目的时候可以通过关联 GitHub 账号，直接部署 G
 2. 完成上一步后，会跳转到 Deploy 页面，找到 Deployment method 选择 GitHub 关联上自己的 GitHub 帐号。
 
 3. 关联上 shadowsocks-heroku 项目，如下图所示：
-    ![](https://github.com/521xueweihan/shadowsocks-heroku/blob/master/img/1-min.png)
+    ![](https://raw.githubusercontent.com/doyzheng/shadowsocks-heroku/master/img/1-min.png)
 
 4. 点击 Deploy Branch，部署成功如下图：
-    ![](https://github.com/521xueweihan/shadowsocks-heroku/blob/master/img/2-min.png)
+    ![](https://raw.githubusercontent.com/doyzheng/shadowsocks-heroku/master/img/2-min.png)
 
 ## 三、设置加密算法和密码
 进入 Setting 页面 ——> Reveal Config Vars，设置参数如下图：
-![](https://github.com/521xueweihan/shadowsocks-heroku/blob/master/img/3-min.png)
+![](https://raw.githubusercontent.com/doyzheng/shadowsocks-heroku/master/img/3-min.png)
 
 **支持的加密算法类型如下：**  
 - rc4-md5
@@ -75,16 +75,16 @@ Heroku 在创建项目的时候可以通过关联 GitHub 账号，直接部署 G
     代理端口：1080
     ```
 
-    ![](https://github.com/521xueweihan/shadowsocks-heroku/blob/master/img/5-min.png)
+    ![](https://raw.githubusercontent.com/doyzheng/shadowsocks-heroku/master/img/5-min.png)
 
 4. 选择代理（刚配置好的）
 
-    ![](https://github.com/521xueweihan/shadowsocks-heroku/blob/master/img/6-min.png)
+    ![](https://raw.githubusercontent.com/doyzheng/shadowsocks-heroku/master/img/6-min.png)
 
 5. 现在你就可以访问 Google 了
 
-    ![](https://github.com/521xueweihan/shadowsocks-heroku/blob/master/img/7-min.png)
+    ![](https://raw.githubusercontent.com/doyzheng/shadowsocks-heroku/master/img/7-min.png)
 
 ## 六、送人玫瑰手留余香🌹
 
-![](https://github.com/521xueweihan/shadowsocks-heroku/blob/master/img/weixin.png)
+![](https://raw.githubusercontent.com/doyzheng/shadowsocks-heroku/master/img/weixin.png)
